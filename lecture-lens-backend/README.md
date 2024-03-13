@@ -46,7 +46,7 @@ https://tailwindcss.com/docs/guides/create-react-app
 
 # Architecture of REST API (Go/Echo) application
 
-<img src="./architecture.png" width="700px"/>
+図
 
 # 考え方
 
